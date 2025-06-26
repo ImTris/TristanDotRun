@@ -26,3 +26,10 @@
     icon = "linkedin"
     showName = true
     target = "_blank"
+
+[[main]]
+  identifier = "appearance"
+  weight = 99
+  [main.params]
+    action = "appearance"
+    icon = "sun"

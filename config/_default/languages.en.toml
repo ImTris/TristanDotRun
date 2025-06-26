@@ -1,0 +1,16 @@
+title = "Code. Build. Run."
+
+[params.author]
+name = "Tristan Benschop"
+image = "img/author.jpg"
+headline = "Code. Build. Run."
+bio = "With over a decade of experience in .Net and Azure technologies, I decided to record my lessons learned."
+links = [
+  { linkedin = "https://www.linkedin.com/in/tristanbenschop/" }
+]
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+htmlCode = "en"
+weight = 1
+rtl = false

@@ -1,0 +1,28 @@
+[[main]]
+  name = "Blog"
+  pageRef = "posts"
+  weight = 10
+
+[[main]]
+  name = "About"
+  pageRef = "/about"
+  weight = 20
+
+[[main]]
+  name = "Dev Config"
+  pageRef = "/dev-config"
+  weight = 30
+
+[[main]]
+  name = "Ref Links"
+  pageRef = "/ref-links"
+  weight = 40
+
+[[main]]
+  name = "LinkedIn"
+  url = "https://www.linkedin.com/in/tristanbenschop/"
+  weight = 50
+  [main.params]
+    icon = "linkedin"
+    showName = true
+    target = "_blank"

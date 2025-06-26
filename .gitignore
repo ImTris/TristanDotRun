@@ -1,0 +1,35 @@
+# Hugo build output
+/public/
+/resources/
+
+# Hugo cache
+/.hugo_build.lock
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Node modules (if using npm/yarn for assets)
+/node_modules/
+
+# Go build files (if using Hugo modules)
+/go.sum
+/go.mod
+
+# Backup files
+*~
+*.swp
+*.swo
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# Static site search index
+index.json
+
+# Ignore local config overrides
+config/_default/params.local.toml
+config/_default/config.local.toml

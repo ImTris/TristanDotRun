@@ -1,4 +1,4 @@
 ---
-title: "First Post"
+title: "Knowledge Base"
 date: 2025-06-26
 ---

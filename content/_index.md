@@ -3,15 +3,13 @@ title: "Home"
 date: 2025-06-26
 ---
 
-# Hi, I'm Tristan Benschop.
+# Welcome
 
-With over a decade of experience in .NET and Azure technologies, I am passionate about building robust, scalable solutions and sharing my lessons learned with the developer community. I enjoy solving complex problems, mentoring others, and continuously learning new things in the ever-evolving world of software engineering.
+On this site I collect and record practical solutions for myself. If you are visiting I hope it helps you as a software engineer.
 
-Welcome to my site, where I share insights, resources, and stories from my journey in tech.
+Over the years, I've worked with many different projects and clients. Doing so I noticed how valuable it is to have a reliable place for your favorite setups, reference links, and lessons learned. To get up and running as fast as possible. Here I share and maintain my personal configuration for what I deem a productive development environment on any machine. On top of that I keep track of the resources I regularly visit.
 
+You'll find concise, no-nonsense tutorials at my [Blog](/posts/), my personal [Dev Config](/dev-config/) for getting started fast, and a [Knowledge Base](/knowledge-base/) with the best documentation and links I use in my daily work.
 
-```text
-Code. Build. Run.
-```
----
+Thanks for visiting.
 

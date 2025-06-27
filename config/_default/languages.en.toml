@@ -1,9 +1,9 @@
-title = "Code. Build. Run."
+title = "Tristan.Run"
 
 [params.author]
 name = "Tristan Benschop"
 image = "img/author.jpg"
-headline = "Code. Build. Run."
+headline = ""
 bio = "With over a decade of experience in .Net and Azure technologies, I decided to record my lessons learned."
 links = [
   { linkedin = "https://www.linkedin.com/in/tristanbenschop/" }
@@ -14,3 +14,5 @@ displayName = "EN"
 htmlCode = "en"
 weight = 1
 rtl = false
+
+copyright = "All opinions expressed on this site are my own and do not reflect those of my employer or any other party."

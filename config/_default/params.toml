@@ -2,3 +2,8 @@ colorScheme = "sapphire"
 
 [homepage]
 layout = "profile"
+showRecent = true
+
+[footer]
+showThemeAttribution = false
+showCopyright = true

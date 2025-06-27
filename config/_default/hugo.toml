@@ -1,4 +1,4 @@
-baseURL = "https://tristan.run"
+baseURL = "https://tristan.run/"
 languageCode = "en"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
@@ -9,3 +9,7 @@ summaryLength = 0
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

@@ -4,7 +4,7 @@ title = "Tristan.Run"
 name = "Tristan Benschop"
 image = "img/author.jpg"
 headline = ""
-bio = "With over a decade of experience in .Net and Azure technologies, I decided to record my lessons learned."
+bio = "IT consultant and senior software engineer with 10+ years' experience. Passionate about designing and building scalable, secure Azure cloud solutions and solving complex technical challenges."
 links = [
   { linkedin = "https://www.linkedin.com/in/tristanbenschop/" }
 ]

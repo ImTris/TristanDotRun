@@ -1,3 +1,6 @@
 [tableOfContents]
   startLevel = 2
   endLevel = 4
+
+[highlight]
+noClasses = false

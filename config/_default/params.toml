@@ -1,4 +1,11 @@
-colorScheme = "sapphire"
+colorScheme = "avocado"
+defaultAppearance = "dark"
+autoSwitchAppearance = false
+enableCodeCopy = true
+
+
+[header]
+layout = "hamburger"
 
 [homepage]
 layout = "profile"
@@ -7,3 +14,5 @@ showRecent = true
 [footer]
 showThemeAttribution = false
 showCopyright = true
+showScrollToTop = true
+

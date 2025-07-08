@@ -28,6 +28,8 @@ winget install Sass.Sass
 winget install Hugo.Hugo.Extended
 ```
 
+Be sure to add these to your path.
+
 #### Verify Hugo installation
 ```sh
 hugo version

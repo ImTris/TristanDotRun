@@ -7,6 +7,14 @@ date: 2025-06-26
 
 I'm Tristan Benschop, an IT consultant and senior software engineer with over a decade of experience. My passion lies in designing, building, and optimizing scalable, secure cloud solutions—primarily on Microsoft Azure. I thrive on solving complex technical challenges and helping organizations deliver future-proof, efficient, and maintainable software.
 
+#### Certifications
+
+{{< figure class="certification-badges-figure" src="img/azure-solutions-architect-expert.png" alt="Azure Solutions Architect Expert" width="120" height="120" link="https://learn.microsoft.com/api/credentials/share/en-us/TristanBenschop-9597/B84944509F3B3990" target="_blank" default=true >}}
+{{< figure class="certification-badges-figure" src="img/azure-devops-engineer-expert.png" alt="DevOps Engineer Expert" width="120" height="120" link="https://learn.microsoft.com/api/credentials/share/en-us/TristanBenschop-9597/1AD79B393F19E015" target="_blank" default=true >}}
+{{< figure class="certification-badges-figure" src="img/azure-developer-associate.png" alt="Azure Developer Associate" width="120" height="120" link="https://learn.microsoft.com/api/credentials/share/en-us/TristanBenschop-9597/4F4DE55D1EF5BF9C" target="_blank" default=true >}}
+{{< figure class="certification-badges-figure" src="img/azure-administrator-associate.png" alt="Azure Administrator Associate" width="120" height="120" link="https://learn.microsoft.com/api/credentials/share/en-us/TristanBenschop-9597/2F78011B6EA28F2C" target="_blank" default=true >}}
+{{< figure class="certification-badges-figure" src="img/azure-ai-engineer-associate.png" alt="Azure AI Engineer Associate" width="120" height="120" link="https://learn.microsoft.com/api/credentials/share/en-us/TristanBenschop-9597/27DE10890B6342C3" target="_blank" default=true >}}
+
 ### Areas of Expertise
 - **Cloud Architecture:** Azure (Microsoft Certified: Solutions Architect Expert)
 - **DevOps & SecDevOps:** Azure DevOps, CI/CD, Infrastructure as Code
@@ -14,16 +22,6 @@ I'm Tristan Benschop, an IT consultant and senior software engineer with over a 
 - **Frontend:** Angular, React, JavaScript, TypeScript, HTML5, SCSS, SASS
 - **Databases:** SQL Server, Azure Cosmos DB
 - **Agile & Scrum:** Professional Scrum Master (PSM I), Test Driven Development (TDD)
-
-### Certifications
-- Microsoft Certified: Azure Solutions Architect Expert
-- Microsoft Certified: DevOps Engineer Expert
-- Microsoft Certified: Azure Administrator Associate
-- Microsoft Certified: Azure Developer Associate
-- Microsoft Certified: Azure AI Engineer Associate
-- Microsoft Certified: Azure Cosmos DB Developer Specialty
-- Microsoft Certified: Azure Data Scientist Associate
-- Professional Scrum Master (PSM I)
 
 ### Interests
 - Native mobile development (Android/iOS)
@@ -37,5 +35,3 @@ I'm Tristan Benschop, an IT consultant and senior software engineer with over a 
 
 ### Education
 - Bachelor’s degree in Informatics, Avans Hogeschool
-
----

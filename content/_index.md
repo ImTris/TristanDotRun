@@ -13,5 +13,5 @@ As a Microsoft Certified Solutions Architect, I focus on designing scalable, sec
 
 You'll find concise, no-nonsense tutorials at my [Blog](/posts/), my personal [Dev Config](/dev-config/) for getting started fast, and a [Knowledge Base](/knowledge-base/) with the best documentation and links I use in my daily work.
 
-Thanks for visiting.
+Happy coding!
 

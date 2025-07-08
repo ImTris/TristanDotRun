@@ -13,7 +13,6 @@ I'm Tristan Benschop, an IT consultant and senior software engineer with over a 
 {{< figure class="certification-badges-figure" src="img/azure-devops-engineer-expert.png" alt="DevOps Engineer Expert" width="120" height="120" link="https://learn.microsoft.com/api/credentials/share/en-us/TristanBenschop-9597/1AD79B393F19E015" target="_blank" default=true >}}
 {{< figure class="certification-badges-figure" src="img/azure-developer-associate.png" alt="Azure Developer Associate" width="120" height="120" link="https://learn.microsoft.com/api/credentials/share/en-us/TristanBenschop-9597/4F4DE55D1EF5BF9C" target="_blank" default=true >}}
 {{< figure class="certification-badges-figure" src="img/azure-administrator-associate.png" alt="Azure Administrator Associate" width="120" height="120" link="https://learn.microsoft.com/api/credentials/share/en-us/TristanBenschop-9597/2F78011B6EA28F2C" target="_blank" default=true >}}
-{{< figure class="certification-badges-figure" src="img/azure-ai-engineer-associate.png" alt="Azure AI Engineer Associate" width="120" height="120" link="https://learn.microsoft.com/api/credentials/share/en-us/TristanBenschop-9597/27DE10890B6342C3" target="_blank" default=true >}}
 
 ### Areas of Expertise
 - **Cloud Architecture:** Azure (Microsoft Certified: Solutions Architect Expert)

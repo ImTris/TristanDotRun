@@ -178,6 +178,7 @@ Add your custom analyzers as additional NuGet package references in your standar
 
 - [ImTris.BaseCodingStandards Repository](https://github.com/ImTris/ImTris.BaseCodingStandards)
 - [Sharing Coding Style and Roslyn Analyzers](https://www.meziantou.net/sharing-coding-style-and-roslyn-analyzers-across-projects.htm)
+- [Microsoft Docs: Code Analysis](https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/overview?tabs=net-9)
 - [SonarAnalyzer.CSharp Rules](https://github.com/SonarSource/sonar-dotnet/tree/master/analyzers/src/SonarAnalyzer.CSharp)
 - [Enabling High Code Quality in .NET](https://milan.milanovic.org/post/enabling-high-code-quality-in-net/)
 - [How to Write C# Analyzer and Code Fix](https://learn.microsoft.com/en-us/dotnet/csharp/roslyn-sdk/tutorials/how-to-write-csharp-analyzer-code-fix)

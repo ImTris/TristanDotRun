@@ -155,6 +155,7 @@ dotnet nuget add source ./ -n LocalFeed
 # Depending on the platform the location varies. Check it with:
 dotnet nuget list source
 # Now you can drop the nupkg file generated inside that folder.
+nuget push ImTris.BaseCodingStandards.1.0.0.nupkg -Source LocalFeed
 ```
 
 ---
